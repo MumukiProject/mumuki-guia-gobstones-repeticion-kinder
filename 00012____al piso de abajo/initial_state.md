@@ -11,5 +11,5 @@ cell 0 0 Azul 2
 cell 1 0 Azul 2 
 cell 2 0 Azul 2 
 cell 3 0 Azul 1 
-head NaN 0
+head 0 3
  </gs-board>
