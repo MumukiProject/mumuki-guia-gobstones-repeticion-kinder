@@ -1,5 +1,5 @@
 <div class="mu-kindergarten-context-image-slides">
-  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/tutorial3_4_1609952666781.svg" alt="tutorial3_4_1609952666781.svg" class="active">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/tutorial3_4_1609952666781.svg" alt="Construcción de un programa con repetición" class="active">
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_basquet_1604428143352.svg" alt="La pelota va al aro">
 </div>
 
