@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_basquet_1604428143352.svg" alt="La pelota va al aro">
 </div>
 
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/toolbox_1609344291928.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/toolbox_1609957918234.xml"></gs-toolbox>
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604610873423.json"></gs-attire>
 
