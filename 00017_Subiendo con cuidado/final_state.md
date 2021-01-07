@@ -2,7 +2,7 @@
 size 6 5
 cell 0 4 Verde 2 
 cell 1 4 Verde 2 
-cell 2 4 Verde 2 Azul 2 
+cell 2 4 Azul 2 Verde 2 
 cell 3 4 Azul 2 Verde 2 
 cell 4 4 Azul 2 Verde 2 
 cell 5 4 Azul 2 Verde 2 
@@ -12,7 +12,7 @@ cell 2 3 Verde 2
 cell 3 3 Azul 2 Verde 2 
 cell 4 3 Azul 2 Verde 2 
 cell 5 3 Azul 2 Verde 2 
-cell 0 2 Verde 2 Azul 2 
+cell 0 2 Azul 2 Verde 2 
 cell 1 2 Verde 2 
 cell 2 2 Verde 2 
 cell 3 2 Verde 2 
@@ -22,12 +22,12 @@ cell 0 1 Azul 2 Verde 2
 cell 1 1 Azul 2 Verde 2 
 cell 2 1 Verde 1 
 cell 3 1 Verde 2 
-cell 4 1 Azul 1 Verde 2 Rojo 1 
+cell 4 1 Azul 1 Rojo 1 Verde 2 
 cell 5 1 Verde 2 
 cell 0 0 Azul 2 Verde 2 
 cell 1 0 Azul 2 Verde 2 
 cell 2 0 Azul 2 Verde 2 
-cell 3 0 Verde 2 Azul 2 
+cell 3 0 Verde 2 
 cell 4 0 Verde 2 
 cell 5 0 Verde 2 
 head 4 1 </gs-board>
