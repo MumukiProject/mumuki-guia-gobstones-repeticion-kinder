@@ -1,1 +1,1 @@
-TODO
+Había veces que los programas quedaban muy largos, ¿no? :weary: Veamos qué cosas nuevas podemos aprender para ayudar a los personajes con desafíos un poquito más difíciles :sunglasses:. ¡Vamos!

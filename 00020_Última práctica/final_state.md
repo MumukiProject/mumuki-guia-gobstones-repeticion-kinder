@@ -1,1 +1,0 @@
-<img src='https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/rompecabezas_final3-01_1610043908336.svg'>
