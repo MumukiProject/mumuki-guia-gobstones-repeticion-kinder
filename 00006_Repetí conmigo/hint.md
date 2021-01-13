@@ -1,1 +1,1 @@
-¡NO TE OLVIDES DE USAR EL NUEVO BLOQUE! :repeat: **hacer una imagen como con el play el ojito?**. **esto va en la pista o en la consigna?**
+¡NO TE OLVIDES DE USAR LA REPETICIÓN!  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder/master/assets/emoji_repetir_1610551693293.svg" alt="emoji_repetir_1610551693293.svg" width="auto" height="auto">
